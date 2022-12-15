@@ -17,7 +17,7 @@ export const NFTTitle = ({ title, subTitle, titlesSize, subTitleSize }) => {
   )
 }
 
-export const EthrPrice = ({ price }) => {
+export const EthPrice = ({ price }) => {
   return (
     <View style={{
       flexDirection: 'row',
